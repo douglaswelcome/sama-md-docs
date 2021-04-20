@@ -1,0 +1,23 @@
+{
+  "name": "sama-md-docs",
+  "version": "1.0.0",
+  "description": "to convert sama md docs for the website into html and then published at sama.com",
+  "main": "index.js",
+  "scripts": {
+
+    "md": "marked _src/* -o _dist/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglaswelcome/sama-md-docs.git"
+  },
+  "author": "Douglas Welcome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglaswelcome/sama-md-docs/issues"
+  },
+  "homepage": "https://github.com/douglaswelcome/sama-md-docs#readme",
+  "dependencies": {
+    "marked": "^2.0.0"
+  }
+}
