@@ -10,4 +10,4 @@ SAMA KENYA LTD is a business process outsource centre. It is a subsidiary of SAM
 
 * Ensuring that quality and information security objectives are established throughout the organization and are compatible with the strategic direction of the Company
 
-* Reviewingand effectively communicating this policy and its supporting objectives in the organization and to relevant interested parties, as appropriate
+* Reviewing and effectively communicating this policy and its supporting objectives in the organization and to relevant interested parties, as appropriate
